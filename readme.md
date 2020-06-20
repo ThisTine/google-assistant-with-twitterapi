@@ -17,7 +17,7 @@ As you can see on my clip video I made google home get data from twitter api and
 * [Heroku](https://http://heroku.com/)
 
 ## How does it work ?
-![How does it Work](docs/images/r1)
+![How does it Work](docs/images/r1.jpg)
 
 it's pretty easy so 
 # We take to google and it will sent request to our API
