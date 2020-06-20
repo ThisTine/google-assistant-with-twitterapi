@@ -20,13 +20,13 @@ As you can see on my clip video I made google home get data from twitter api and
 ![How does it Work](docs/images/r1.jpg)
 
 it's pretty easy so 
-* We take to google and it will sent request to our API
+* We talk to google home and it will sent request to our API
 * Than our API Will get the request and send the request to Twitter API to get the newest 10 tweets
 * The Twitter API will send all the datas as Json to our API 
 * Than our API Will process all the datas and random 1 tweet from 10 tweets (So we don't get the same tweet everytime we call google home) and send it to our google assistant
 
 ## Getting start
-So They have 2 (+1) folders, All of them has comments to show you how it works (Read it if you want)
+So They have 2 (+1) folders, All of them have comments to show you how they work (Read it if you want)
 
 ### Google Action Console
 This is folder for [Google Action Console](https://console.actions.google.com/).
